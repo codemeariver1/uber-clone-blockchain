@@ -9,12 +9,36 @@
       "lint": "next lint"
     },
     "dependencies": {
+      "@faker-js/faker": "^7.0.1",
+      "@sanity/client": "^3.3.0",
+      "ethers": "^5.6.8",
+      "mapbox-gl": "^2.8.2",
       "next": "12.1.6",
       "react": "18.1.0",
-      "react-dom": "18.1.0"
+      "react-dom": "18.1.0",
+      "react-icons": "^4.3.1"
     },
     "devDependencies": {
+      "autoprefixer": "^10.4.7",
       "eslint": "8.16.0",
-      "eslint-config-next": "12.1.6"
-    }
+      "eslint-config-next": "12.1.6",
+      "postcss": "^8.4.14",
+      "tailwindcss": "^3.0.24"
+    },
+    "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+    "main": "index.html",
+    "directories": {
+      "lib": "lib"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gucciflipflops1/uber-clone-blockchain.git"
+    },
+    "author": "Steven Joseph",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/gucciflipflops1/uber-clone-blockchain/issues"
+    },
+    "homepage": "https://github.com/gucciflipflops1/uber-clone-blockchain#readme"
   }
+  
