@@ -32,13 +32,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/gucciflipflops1/uber-clone-blockchain.git"
+      "url": "git+https://github.com/codemeariver1/uber-clone-blockchain.git"
     },
     "author": "Steven Joseph",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/gucciflipflops1/uber-clone-blockchain/issues"
+      "url": "https://github.com/codemeariver1/uber-clone-blockchain/issues"
     },
-    "homepage": "https://github.com/gucciflipflops1/uber-clone-blockchain#readme"
+    "homepage": "https://github.com/codemeariver1/uber-clone-blockchain#readme"
   }
   
